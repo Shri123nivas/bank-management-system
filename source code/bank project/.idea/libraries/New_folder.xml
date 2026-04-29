@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="New folder">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../../../New folder" />
+      <root url="jar://$PROJECT_DIR$/../../../../Desktop/jcalendar-1.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-j-8.0.33.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../../../../New folder" recursive="false" />
+  </library>
+</component>
